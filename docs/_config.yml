@@ -1,0 +1,26 @@
+theme: jekyll-theme-minimal
+title: Traidingview
+description: >-
+  TradingView Desktop setup assistant for offline use. 
+  Full charting and analysis features, no login required.
+logo: /assets/logo.png
+show_downloads: true
+google_analytics: # UA-XXXXX-Y
+
+# SEO Plugin
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO Settings
+seo:
+  title: TradingView Desktop Offline Setup & Activation
+  description: "Unlock full TradingView features on your desktop, completely offline. This setup assistant enables all charting tools, multi-monitor layouts, and custom scripts without needing an account or internet connection."
+  image: /assets/social-preview.png
+  twitter:
+    username: TradingView
+    card: summary_large_image
+  social:
+    name: TradingViewMirror
+    links:
+      - https://github.com/TradingViewMirror/traidingview 

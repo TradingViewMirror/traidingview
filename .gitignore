@@ -1,0 +1,7 @@
+# Ignore internal files
+.internal/
+
+# Ignore user-specific files
+.DS_Store
+*.pem
+*.key 
